@@ -10,49 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="947f8804-83aa-4d08-bfd2-666be3e70c4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Friendsystem.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/CloudNetAPI.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Friedsystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bungee.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/Friends.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/FriendsAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/FriendsCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/FriendsInitListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/MsgCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/MySQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/ReplyCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/FriendsCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/MsgCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/ReplyCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/subcmds/FriendAcceptAllCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/subcmds/FriendAcceptCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/subcmds/FriendAddCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/subcmds/FriendDenyAllCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/subcmds/FriendDenyCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/subcmds/FriendJumpCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/subcmds/FriendListCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/subcmds/FriendRemoveCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/subcmds/FriendRequestsCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/subcmds/FriendToggleCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/subcmds/FriendToggleJumpCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/subcmds/FriendToggleMsgCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/subcmds/FriendToggleNotifyCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/subcmds/FriendToggleOnlineCMD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/cmds/subcmds/SubCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/listener/FriendsAPIListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/listener/FriendsInitListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/spigot/FriendsAPISpigot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/spigot/FriendsMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/spigot/SpigotUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/utils/BungeeUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/CloudNetAPI.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/CloudNetAPI.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/avo/einfachfriends/MsgCMD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/MsgCMD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/avo/einfachfriends/spigot/SpigotUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/spigot/SpigotUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/avo/einfachfriends/utils/BungeeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/avo/einfachfriends/utils/BungeeUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/ricci/OneDrive/Desktop/SyplexEU/APIs/spigot.jar",
-    "project.structure.last.edited": "Artifacts",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15625",
     "project.structure.side.proportion": "0.2"
   }
@@ -91,6 +53,20 @@
       <option name="presentableId" value="Default" />
       <updated>1678218977521</updated>
     </task>
+    <task id="LOCAL-00001" summary="Init Friedsystem">
+      <created>1678225915096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678225915096</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Init Friedsystem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init Friedsystem" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

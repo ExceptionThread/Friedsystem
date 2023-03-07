@@ -2,7 +2,6 @@ package me.avo.einfachfriends.spigot;
 
 import me.avo.einfachfriends.MySQL;
 
-import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -26,11 +25,7 @@ public class SpigotUtils {
   
   static HashMap<String, Boolean> getSettings(String uuid) {
     HashMap<String, Boolean> settings = new HashMap<>();
-    try {
-      Exception exception2, exception1 = null;
-    } catch (SQLException ex) {
-      ex.printStackTrace();
-    } 
+    Exception exception2, exception1 = null;
     return settings;
   }
   

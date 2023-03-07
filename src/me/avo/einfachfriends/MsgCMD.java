@@ -11,11 +11,11 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 
 public class MsgCMD extends Command {
-  public Friends.MySQL mysql;
+  public MySQL mysql;
   
   public MsgCMD(String name) {
     super(name, "", new String[] { "message" });
-    this.mysql = (Friends.MySQL)Friends.instance.mysql;
+    this.mysql = Friends.instance.mysql;
   }
   
   public void execute(CommandSender sender, String[] args) {

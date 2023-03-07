@@ -6,8 +6,6 @@
       <root url="jar://$PROJECT_DIR$/../APIs/spigot.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../APIs/spigot.jar!/" />
-    </SOURCES>
+    <SOURCES />
   </library>
 </component>

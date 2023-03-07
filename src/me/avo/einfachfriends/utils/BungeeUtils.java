@@ -2,7 +2,6 @@ package me.avo.einfachfriends.utils;
 
 import me.avo.einfachfriends.MySQL;
 
-import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -11,7 +10,7 @@ public class BungeeUtils {
   public static MySQL mysql;
   
   private static final HashMap<String, List<String>> friendsCache = new HashMap<>();
-  
+
   private static final HashMap<String, List<String>> requestsCache = new HashMap<>();
   
   private static final HashMap<String, HashMap<String, Boolean>> settingsCache = new HashMap<>();
@@ -52,11 +51,6 @@ public class BungeeUtils {
     if (settingsCache.containsKey(uuid))
       return settingsCache.get(uuid); 
     HashMap<String, Boolean> settings = new HashMap<>();
-    try {
-      Exception exception2, exception1 = null;
-    } catch (SQLException ex) {
-      ex.printStackTrace();
-    } 
     settingsCache.put(uuid, settings);
     return settings;
   }
