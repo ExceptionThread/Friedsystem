@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="CloudNetAPI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../APIs/CloudNetAPI.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../APIs/BungeeCord.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../APIs/spigot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../APIs/spigot.jar!/" />
+    </SOURCES>
+  </library>
+</component>

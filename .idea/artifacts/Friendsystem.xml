@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Friendsystem">
+    <output-path>$PROJECT_DIR$/out/artifacts/Friendsystem</output-path>
+    <root id="archive" name="Friendsystem.jar">
+      <element id="library" level="project" name="CloudNetAPI" />
+      <element id="module-output" name="Friedsystem" />
+    </root>
+  </artifact>
+</component>
